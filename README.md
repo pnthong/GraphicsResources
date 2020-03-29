@@ -8,3 +8,6 @@
   . Nsight Aftermath SDK Samples: https://github.com/NVIDIA/nsight-aftermath-samples
   . Nsight System: https://developer.nvidia.com/nsight-systems
 +
+
++ Algorithms:
+  . Voxel Cone Tracing: https://github.com/Friduric/voxel-cone-tracing
